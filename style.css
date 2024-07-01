@@ -703,7 +703,7 @@ span {
     position: absolute;
     top: 100%;
     right: 5rem;
-    width: 25%;
+    width: 50%;
     padding: 1rem 3%;
     background: var(--bg-color);
     border-radius: 10px;
@@ -870,7 +870,7 @@ span {
   }
 
   .home {
-    padding: 10rem 1% 40rem;
+    padding: 10rem 1% 50rem;
   }
 
   .home .profession-box .profession:nth-child(1) {
