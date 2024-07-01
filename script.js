@@ -29,7 +29,7 @@ window.onscroll = () => {
 // sticky navbar
 let header = document.querySelector('.header');
 
-header.classList.toggle('sticky', window.scrollY > 100);
+header.classList.toggle('sticky', window.scrollY > 70);
 
 // remove menu icon navbar
 menuIcon.classList.remove('bx-x');
