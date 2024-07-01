@@ -882,11 +882,11 @@ span {
   }
 
   .home .profession-box .profession:nth-child(3) {
-    transform: rotate(90deg) translate(-105px, -425px);
+    transform: rotate(90deg) translate(-105px, -440px);
   }
 
   .home .profession-box .profession:nth-child(4) {
-    transform: rotate(180deg) translate(-220px, -335px);
+    transform: rotate(180deg) translate(-220px, -325px);
   }
 
 .home .profession-box .profession:nth-child(1) i,
